@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"Miavega/crud_test_api/models"
+	"github.com/Miavega/crud_test_api/models"
 	"encoding/json"
 	"errors"
 	"strconv"
