@@ -1,6 +1,6 @@
 lastupdate.tmp
 .vscode/
-api_mutants_mercado_libre.exe
+crud_test_api.exe
 main
 go.mod
 go.sum
@@ -18,9 +18,10 @@ swagger/fonts/
 swagger/images/
 swagger/lang/
 swagger/lib/
-api_mutants_mercado_libre
+crud_test_api
 .env
 /*.out
 coveragecontrollers.html
 coveragehelpers.html
 coveragemodels.html
+commentsRouter_controllers.go
