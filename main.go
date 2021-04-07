@@ -1,7 +1,7 @@
 package main
 
 import (
-	_ "crud_test_api/routers"
+	_ "github.com/Miavega/crud_test_api/routers"
 
 	beego "github.com/beego/beego/v2/server/web"
 	"github.com/beego/beego/v2/client/orm"
